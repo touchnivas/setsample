@@ -15,4 +15,5 @@ setHeight(350);
 setHeight(); // will use the default value of 50
 setHeight(135);
 setHeight(80);
+setHeight(100);
 ?>
