@@ -7,7 +7,7 @@ echo($str);
 
 
 <?php
-$number = 9;
+$number = 8;
 $str = "Beijing";
 $txt = sprintf("There are %u million bicycles in %s.",$number,$str);
 echo $txt;
