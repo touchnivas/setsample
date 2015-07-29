@@ -1,5 +1,5 @@
 <?php
 echo "changes of the code";
 echo "FILE2:file2.php";
-echo "files are changed";
+echo "git ignore";
 ?>
